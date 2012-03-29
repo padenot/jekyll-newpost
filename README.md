@@ -12,6 +12,10 @@ On first run, it prompts for the name you want to sign with :
 
 ![Prompt on first run](https://github.com/padenot/jekyll-newpost/raw/master/store_byline.png)
 
+Result :
+
+![Result](https://github.com/padenot/jekyll-newpost/raw/master/result.png)
+
 # Dependencies
 
 `unidecode` : `sudo easy_install unidecode` or equivalent
