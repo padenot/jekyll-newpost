@@ -5,6 +5,7 @@ CLI to create the preamble of a new post in a Jekyll based blog.
 # Screenshot
 
 Easy to create a post in a minute :
+
 ![Create a new post](https://github.com/padenot/jekyll-newpost/raw/master/newpost.png)
 
 On first run, it prompts for the name you want to sign with :
